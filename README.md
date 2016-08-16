@@ -9,4 +9,4 @@ xxCalc is a highly customizable calculator that features
  - and a lot more features......
 
 # preview xxCalc on YouTube
-[![xxCalc preview](https://img.youtube.com/vi/fkPEjKnN4qA/0.jpg)](https://www.youtube.com/watch?v=fkPEjKnN4qA)
+[![xxCalc preview](https://github.com/xxjapp/xxCalc/blob/master/5.png)](https://www.youtube.com/watch?v=fkPEjKnN4qA)
