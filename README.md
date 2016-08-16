@@ -8,4 +8,5 @@ xxCalc is a highly customizable calculator that features
  - calculate while inputting
  - and a lot more features......
 
+# preview xxCalc on YouTube
 [![xxCalc preview](https://img.youtube.com/vi/fkPEjKnN4qA/0.jpg)](https://www.youtube.com/watch?v=fkPEjKnN4qA)
