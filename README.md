@@ -8,5 +8,8 @@ xxCalc is a highly customizable calculator that features
  - calculate while inputting
  - and a lot more features......
 
+# Download xxCalc from AppStore
+[![Download xxCalc from AppStore](https://github.com/xxjapp/xxCalc/blob/master/appstore.png)](https://itunes.apple.com/app/xxcalc/id1144083520?mt=8)
+
 # Preview xxCalc on YouTube
 [![xxCalc preview](https://github.com/xxjapp/xxCalc/blob/master/5.png)](https://www.youtube.com/watch?v=fkPEjKnN4qA)
